@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🎨 My Hobbies
 - 👨‍🍳 **Cooking**
-- **Playing video games**
+- 🎮**Playing video games**
 - 📚 **Reading comics**
 - ✈️ **Traveling**
 
